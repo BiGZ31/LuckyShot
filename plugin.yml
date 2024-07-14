@@ -1,0 +1,7 @@
+name: CosmeticBow
+version: 1.0
+author: biigbossz
+main: fr.biigbossz.bow.main
+commands:
+  bow:
+    description: Main bow commands
